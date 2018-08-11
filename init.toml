@@ -20,7 +20,7 @@
     # install nerd fonts
     statusline_separator = "arrow"
     statusline_inactive_separator = "arrow"
-    buffer_index_type = 4
+    buffer_index_type = 0
     enable_tabline_filetype_icon = true
     enable_statusline_display_mode = false
 
@@ -49,3 +49,5 @@ name = 'cscope'
 name = 'language#c'
 [[layers]]
 name = 'language#markdown'
+[[layers]]
+name = 'tools'
